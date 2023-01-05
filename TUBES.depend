@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1672217951 source:/Users/nicholasdavi/Documents/Codes/uni/Strukdat/TUBES/main.cpp
+	"tubes.h"
+	<iostream>
+
+1672218205 /Users/nicholasdavi/Documents/Codes/uni/Strukdat/TUBES/tubes.h
+	<iostream>
+
+1672218219 source:/Users/nicholasdavi/Documents/Codes/uni/Strukdat/TUBES/tubes.cpp
+	"tubes.h"
+
+1672929651 source:c:\data\tugas\struktur data\tp\tubes\main.cpp
+	"tubes.h"
+	<string.h>
+	<iostream>
+
+1672833895 c:\data\tugas\struktur data\tp\tubes\tubes.h
+	<iostream>
+	<string.h>
+
+1672835172 source:c:\data\tugas\struktur data\tp\tubes\tubes.cpp
+	"tubes.h"
+
